@@ -16,6 +16,8 @@ If you know basic JavaScript and ES6 or using any single page application JS fra
 
 ⋅⋅* axios
 
+⋅⋅* fetch
+
 
 ## State Management
 ⋅⋅* Redux (Majorly used)
@@ -95,7 +97,7 @@ Credit: [github.com/adam-golab/react-developer-roadmap](github.com/adam-golab/re
 
 
 ### Useful links:
-[Gatsby with Contentful](#https://slides.com/balramsingh/gatsby-with-contentful/#/)
+[Gatsby with Contentful](https://slides.com/balramsingh/gatsby-with-contentful/#/)
 
 [React Performance](https://slides.com/balramsingh/react-performace#/)
 
