@@ -52,13 +52,13 @@ If you know basic JavaScript and ES6 or using any single page application JS fra
 ## React Roadmap
 
 ![alt text](https://github.com/balramsinghindia/reactjs-roadmap/blob/master/roadmap.png?raw=true)
-Credit: github.com/adam-golab/react-developer-roadmap
+Credit: [github.com/adam-golab/react-developer-roadmap](github.com/adam-golab/react-developer-roadmap)
 
 
 
 ### Useful links:
-https://slides.com/balramsingh/gatsby-with-contentful/#/
+[Gatsby with Contentful](#https://slides.com/balramsingh/gatsby-with-contentful/#/)
 
-https://slides.com/balramsingh/react-performace#/
+[React Performance](https://slides.com/balramsingh/react-performace#/)
 
-https://github.com/balramsinghindia/creating-accessible-websites-in-react16
+[Accessibility in ReactJS](https://github.com/balramsinghindia/creating-accessible-websites-in-react16)
