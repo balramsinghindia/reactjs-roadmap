@@ -3,51 +3,55 @@
 If you know basic JavaScript and ES6 or using any single page application JS framework and want to learn React JS, this roadmap is for you.
 
 
-## Concept of Props
-## Concept of States
-## React life-cycle
-## Form Elements in ReactJS
-## Higher Order Components eg Pure Component
-### axios
+Concept of Props
+Concept of States
+React life-cycle
+Form Elements in ReactJS
+Higher Order Components eg Pure Component
+axios
 
 ## State Management
-### Redux (Majorly used)
-### Mobx
+Redux (Majorly used)
+Mobx
 
 ## Forms
-### Redux Form (Majorly used)
-### Formix (Recently Trending)
+Redux Form (Majorly used)
+Formix (Trending)
 
 ## Middleware
-### Redux-Saga
-### Redux Thunk
+Redux-Saga
+Redux Thunk
 
 ## React 16 features eg Hooks
 
 ## React Performance
-### How to measure
-### Gochas
-### Improvements
+How to measure
+Gochas
+Improvements
 
 ## Gatsby
 
 ## Unit Test Cases
-### Jest 
-### Enzyme
+Jest 
+Enzyme
 
 ## Accessibility
-### react-helmet
-### react-aria-live
-### react-a11y-announcer
-### Focus Management
-### eslint-plugin-jsx-a11y
+react-helmet
+react-aria-live
+react-a11y-announcer
+Focus Management
+eslint-plugin-jsx-a11y
 
 ## Styling
-### SCSS
+SCSS
 ### CSS in JS libraries
-### Styled Components
-### EmotionJS
-### Glamour
+Styled Components
+EmotionJS
+Glamour
+
+## Server side rendering
+Next JS
+After JS
 
 ## React Roadmap
 
