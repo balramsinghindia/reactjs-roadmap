@@ -1,87 +1,90 @@
+# React ROadmap 2019
 ![alt text](https://github.com/balramsinghindia/reactjs-roadmap/blob/master/REACT%20ROADMAP%20(1)%20(1)%20(1).png?raw=true)
 
 If you know basic JavaScript and ES6 or using any single page application JS framework and want to learn React JS, this roadmap is for you.
 
 
-Concept of Props
+⋅⋅* Concept of Props
 
-Concept of States
+⋅⋅* Concept of States
 
-React life-cycle
+⋅⋅* React life-cycle
 
-Form Elements in ReactJS
+⋅⋅* Form Elements in ReactJS
 
-Higher Order Components eg Pure Component
+⋅⋅* Higher Order Components eg Pure Component
 
-axios
+⋅⋅* axios
 
 
 ## State Management
-Redux (Majorly used)
+⋅⋅* Redux (Majorly used)
 
-Mobx
+⋅⋅* Mobx
 
 
 ## Forms
-Redux Form (Majorly used)
+⋅⋅* Redux Form (Majorly used)
 
-Formix (Trending)
+⋅⋅* Formix (Trending)
 
 
 ## Middleware
-Redux-Saga
+⋅⋅* Redux-Saga
 
-Redux Thunk
+⋅⋅* Redux Thunk
 
 
-## React 16 features eg Hooks
+## React 16 features
+⋅⋅* Hooks
 
 
 ## React Performance
-How to measure
+⋅⋅* How to measure
 
-Gochas
+⋅⋅* Gochas
 
-Improvements
+⋅⋅* Improvements
+
+
+## Unit Test Cases
+⋅⋅* Jest 
+
+⋅⋅* Enzyme
+
+
+## Accessibility
+⋅⋅* react-helmet
+
+⋅⋅* react-aria-live
+
+⋅⋅* react-a11y-announcer
+
+⋅⋅* Focus Management
+
+⋅⋅* eslint-plugin-jsx-a11y
+
+
+## Styling
+⋅⋅* SCSS
+
+### CSS in JS libraries
+
+⋅⋅* Styled Components
+
+⋅⋅* EmotionJS
+
+⋅⋅* Glamour
+
+
+## Server side rendering
+⋅⋅* Next JS
+
+⋅⋅* After JS
 
 
 ## Gatsby
 
-
-## Unit Test Cases
-Jest 
-
-Enzyme
-
-
-## Accessibility
-react-helmet
-
-react-aria-live
-
-react-a11y-announcer
-
-Focus Management
-
-eslint-plugin-jsx-a11y
-
-
-## Styling
-SCSS
-
-### CSS in JS libraries
-
-Styled Components
-
-EmotionJS
-
-Glamour
-
-
-## Server side rendering
-Next JS
-
-After JS
 
 
 ## React Roadmap
