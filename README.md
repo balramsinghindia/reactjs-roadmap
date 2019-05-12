@@ -1,6 +1,5 @@
-
-# React JS Roadmap
 ![alt text](https://github.com/balramsinghindia/reactjs-roadmap/blob/master/REACT%20ROADMAP%20(1)%20(1)%20(1).png?raw=true)
+
 If you know basic JavaScript and ES6 or using any single page application JS framework and want to learn React JS, this roadmap is for you.
 
 
