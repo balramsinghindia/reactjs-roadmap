@@ -1,4 +1,6 @@
+
 # React JS Roadmap
+![alt text](https://github.com/balramsinghindia/reactjs-roadmap/blob/master/roadmap.png?raw=true)
 If you know basic JavaScript and ES6 or using any single page application JS framework and want to learn React JS, this roadmap is for you.
 
 
@@ -41,15 +43,22 @@ If you know basic JavaScript and ES6 or using any single page application JS fra
 ### Focus Management
 ### eslint-plugin-jsx-a11y
 
-##Styling
+## Styling
 ### SCSS
 ### CSS in JS libraries
 ### Styled Components
 ### EmotionJS
 ### Glamour
 
+## React Roadmap
 
-Useful links:
+![alt text](https://github.com/balramsinghindia/reactjs-roadmap/blob/master/roadmap.png?raw=true)
+Credit: github.com/adam-golab/react-developer-roadmap
+
+
+
+### Useful links:
 https://slides.com/balramsingh/gatsby-with-contentful/#/
+
 https://slides.com/balramsingh/react-performace#/
 
